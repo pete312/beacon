@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/FinalLogo.png</file>
+    </qresource>
+    <qresource prefix="/docs" lang="English">
+        <file>docs/LICENSE</file>
+    </qresource>
+</RCC>
