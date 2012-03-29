@@ -1,16 +1,18 @@
-Beacon is an open source monitoring tool written in C++ and other languages using the Qt framework. The intention is that monitoring sould be flexable and extensible but easy to start and maintain. Many of the requirements have grown from my professional experience in support and development and should address the common shortfalls that Ive seen in commercial monitoring solutions.
+Beacon is an open source monitoring tool written in C++ and other languages using the Qt framework. The intention is that monitoring sould be flexible and extensible but easy to start and maintain. Many of the requirements have grown from my professional experience in support and development and should address the common shortfalls that Ive seen in commercial monitoring solutions.
 
-The goal of the project is formost to be an open comunity driven project to aid support professionals. Any imporvment to the project will be credited to the company or individual making the improvment. 
+The goal of the project is foremost to be an open community driven project to aid support professionals. Any improvement to the project will be credited to the company or individual making the improvement. 
 
-The aim is to provide a relational database backed monitoring setup that can be queried for status, add status though a proxy (similar to Sybase open server), and use the Qt framework to provide network, database and GUI cross platform clients. An additional goal is to section this project into 2 licnences which allows companies to develop their own properitery agents (data collectors) by allowing them to link in (or change) the beacon libraries whilst having the opertinutity to give back to the community though the core elements of the project licenced under the GPL. This is a good faith project and will not be liable to damages as a result of the project or failure of its services to any of the contibuters.
+The aim is to provide a relational database backed monitoring setup that can be queried for status, add status though a proxy (similar to Sybase open server), and use the Qt framework to provide network, database and GUI cross platform clients. An additional goal is to section this project into 2 licences which allows companies to develop their own proprietary agents (data collectors) by allowing them to link in (or change) the beacon libraries whilst having the opportunity to give back to the community though the core elements of the project licenced under the GPL. This is a good faith project and will not be liable to damages as a result of the project or failure of its services to any of the contributors.
 
-Beacon is Copywrite (or copyleft) of Peter Moore 2012 and licensed under two versions of the GNU GPL as free (as in freedom of speech and as in free beer) software.
+Beacon is Copyright (or copyleft) of Peter Moore 2012 and licensed under two versions of the GNU GPL as free (as in freedom of speech and as in free beer) software.
 
-Feedbasck (negative or positive) is welcome but please be construstive.
+Feedback (negative or positive) is welcome but please be constructive.
 
-The beacon agents libaries are under the Lesser GPL giving rights to propritery use and modification without the need to make these changes public. This is intended to provide companies the right to keep their developed API confedential.  
+This project is on hold until SIFT framework is nearer to complete.
 
-The rest of the apps are licenced under the GNU GPL where it can be used freely but any modifications be know to the public. The company or individual will be credited with the improvment.
+The beacon agents libraries are under the Lesser GPL giving rights to proprietary use and modification without the need to make these changes public. This is intended to provide companies the right to keep their developed API confidential.  
+
+The rest of the apps are licenced under the GNU GPL where it can be used freely but any modifications be know to the public. The company or individual will be credited with the improvement.
 
 These are the two licence agreements.
 
@@ -21,7 +23,6 @@ http://www.gnu.org/licenses/lgpl.html
 The GPL is available here:
 
 http://www.gnu.org/licenses/gpl.html
-
 
 
 
